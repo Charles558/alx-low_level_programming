@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts2 - a funct to print every other number in a string
+ * puts2 - a func to print every other number in a string
  *
  * @str: string params
  *
