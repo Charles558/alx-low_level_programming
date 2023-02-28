@@ -2,7 +2,7 @@
 
 /**
  * print_rev - prints a string in reverse
- * @s: the used string reference pointer
+ * @s: pointer for string used
  * Return: 0
  */
 

@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * puts_half - prints the second half of the string
- * @str: the string reference
- * Return: 0
+ * puts_half - a func that prints second half of the string
+ * @str: string pointer
+ * Return: void
  */
 
 void puts_half(char *str)
